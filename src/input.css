@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    :root {
+        @apply font-mono 
+    }
+
+    span {
+        @apply mt-2
+    }
+
+    section {
+        @apply mb-10
+    }
+}
+
+@layer components {
+    .card {
+        margin-top: 1rem;
+        max-width: 19.5rem;
+    }
+
+    .section-title {
+        @apply font-bold underline underline-offset-4 decoration-4 text-2xl
+        mb-2
+    }
+  }
+  
+.bgcolor{
+    background-color: #0072b1
+}
