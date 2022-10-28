@@ -26,7 +26,7 @@ const switchFrench = () => {
 
   // Change the language of the bio section to french
   document.getElementById("bio-title").innerHTML = "Bio";
-  document.getElementById("bio-text").innerHTML = "<li><span class=\"font-extrabold\">1998</span> &emsp; Né à Amizour, Algérie</li><li><span class=\"font-extrabold\">2019</span> &emsp; Diplôme de Licence en Ingénierie Logicielle</li><li><span class=\"font-extrabold\">2021</span> &emsp; Diplôme de Master en Informatique Visuelle</li><li><span class=\"font-extrabold\">2022 à aujourd’hui</span> &emsp; Travails à Goubba</li>";
+  document.getElementById("bio-text").innerHTML = "<li><span class=\"font-extrabold\">1998</span> &emsp; Né à Amizour, Algérie</li><li><span class=\"font-extrabold\">2019</span> &emsp; Diplôme de Licence en Ingénierie Logicielle</li><li><span class=\"font-extrabold\">2021</span> &emsp; Diplôme de Master en Informatique Visuelle</li><li><span class=\"font-extrabold\">2022</span> &emsp; A travaillé chez <a href=\"https://goubba.com/\">Goubba</a></li><li><span class=\"font-extrabold\">2022 à aujoud'huis</span> &emsp; Master en Informatique Visuelle et IA (France)</li>";
 
   // Change the language of the hobbies section to french
   document.getElementById("hobbies-title").innerHTML = "Passe-temps";
@@ -55,7 +55,7 @@ const switchEnglish = () => {
 
   // Change the language of the bio section to english
   document.getElementById("bio-title").innerHTML = "Bio";
-  document.getElementById("bio-text").innerHTML = "<li><span class=\"font-extrabold\">1998</span> &emsp; Born in Amizour, Algeria</li><li><span class=\"font-extrabold\">2019</span> &emsp; Completed a License Degree in Software Engineering</li><li><span class=\"font-extrabold\">2021</span> &emsp; Completed a Master's Degree in Visual Computing</li><li><span class=\"font-extrabold\">2022 to present</span> &emsp; Working at Goubba</li>";
+  document.getElementById("bio-text").innerHTML = "<li><span class=\"font-extrabold\">1998</span> &emsp; Born in Amizour, Algeria</li><li><span class=\"font-extrabold\">2019</span> &emsp; Completed a License Degree in Software Engineering</li><li><span class=\"font-extrabold\">2021</span> &emsp; Completed a Master's Degree in Visual Computing</li><li><span class=\"font-extrabold\">2022</span> &emsp; Worked at <a href=\"https://goubba.com/\">Goubba</a></li><li><span class=\"font-extrabold\">2022 to present</span> &emsp; Completing Master's Degree in Visual Computing and AI (France)</li>";
 
   // Change the language of the hobbies section to english
   document.getElementById("hobbies-title").innerHTML = "Hobbies";
