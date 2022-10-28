@@ -23,6 +23,10 @@ const switchFrench = () => {
 
   // Change the language of the works section to french
   document.getElementById("works-title").innerHTML = "Projets";
+  document.getElementById("desc-goubba").innerHTML = "Une plateforme en ligne qui permet aux entreprises clientes de valider et de passer en revue les cartes-cadeaux vendues sur la principale application Goubba.";
+  document.getElementById("desc-break").innerHTML = "Breakout fait en HTML5, en utilisant Phaser 3.";
+  document.getElementById("desc-path").innerHTML = "Application qui permet la visualisation de trois algorithmes de pathfinding différents.";
+  document.getElementById("desc-seg").innerHTML = "Script qui utilise la segmentation de Detectron 2 pour décrire une scène intérieure, localiser les objets et leur position par rapport à la caméra.";
 
   // Change the language of the bio section to french
   document.getElementById("bio-title").innerHTML = "Bio";
@@ -52,6 +56,10 @@ const switchEnglish = () => {
 
   // Change the language of the works section to english
   document.getElementById("works-title").innerHTML = "Works";
+  document.getElementById("desc-goubba").innerHTML = "An online plateforme that allows Business clients to checkout, monitor and review Gift Cards sold on the main Goubba application.";
+  document.getElementById("desc-break").innerHTML = "Breakout game made in HTML5, using Phaser 3.";
+  document.getElementById("desc-path").innerHTML = "Application that allows the visualization of three different pathfinding algorithms.";
+  document.getElementById("desc-seg").innerHTML = "A script that uses Detectron 2 segmentation to describe an indoor scene, locate the objects and their position relative to the camera.";
 
   // Change the language of the bio section to english
   document.getElementById("bio-title").innerHTML = "Bio";
