@@ -1,0 +1,32 @@
+[[navbar]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 1
+[[navbar]]
+  identifier = "hobbies"
+  name = "Hobbies"
+  url = "/hobbies/"
+  weight = 2
+[[navbar]]
+  identifier = "projects"
+  name = "Projects"
+  url = "/projects/"
+  weight = 3
+[[navbar]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 4
+  [[navbar]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/blog"
+    parent = "posts"
+    weight = 1
+  [[navbar]]
+    identifier = "journal"
+    name = "Journal"
+    url = "/posts/journal"
+    parent = "posts"
+    weight = 2

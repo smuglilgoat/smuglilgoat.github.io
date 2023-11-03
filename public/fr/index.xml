@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ahmed MOUSSAOUI</title>
+    <link>https://smuglilgoat.github.io/fr/</link>
+    <description>Recent content on Ahmed MOUSSAOUI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language><atom:link href="https://smuglilgoat.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hobbies</title>
+      <link>https://smuglilgoat.github.io/fr/hobbies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://smuglilgoat.github.io/fr/hobbies/</guid>
+      <description>Quelques une des façons dont je passe mon temps.
+Il y en a plus sur mon compte Instagram. 📸</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://smuglilgoat.github.io/fr/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://smuglilgoat.github.io/fr/about/</guid>
+      <description>Qui suis-je ? 🤔</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://smuglilgoat.github.io/fr/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://smuglilgoat.github.io/fr/projects/</guid>
+      <description>Voici quelques-uns de mes projets</description>
+    </item>
+    
+  </channel>
+</rss>

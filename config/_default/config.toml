@@ -1,0 +1,11 @@
+baseURL = 'https://smuglilgoat.github.io/'
+languageCode = 'en-us'
+title = 'Ahmed MOUSSAOUI'
+theme = "hugo-theme-monochrome"     
+sectionPagesMenu = 'navbar'
+defaultContentLanguage = "en"
+enableEmoji = true
+paginate = 5
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
