@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-[https://smuglilgoat.github.io/portfolio/](https://smuglilgoat.github.io/portfolio/)
+[https://smuglilgoat.github.io/](https://smuglilgoat.github.io/)
 
 ## Stack
 
