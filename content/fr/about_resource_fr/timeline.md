@@ -7,5 +7,5 @@ weight: 1
 * **2019**   Diplôme de Licence en Ingénierie Logicielle
 * **2021**   Diplôme de Master en Informatique Visuelle (Algérie)
 * **2022**   A travaillé chez Goubba
-* **2022 to present**   Master en Informatique Visuelle et IA (France)
-* **2023 to present**   Stagiaire chez Segula Technologies (France)
+* **2023**   Master en Informatique Visuelle et IA (France)
+* **2023 to present**   Travaille chez Segula Technologies (France)

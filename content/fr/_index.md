@@ -27,5 +27,5 @@ Bienvenue sur mon portfolio 🦉 !
 
 {{< icon name="mail" link="mailto:ahmedmoussaouimz@gmail.com" >}}
 
-{{< icon name="file" link="/CV_Ahmed_MOUSSAOUI.pdf" >}}
+{{< icon name="file" link="/CV_Ahmed_MOUSSAOUI_FR_2023.pdf" >}}
 
